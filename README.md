@@ -22,7 +22,7 @@ I enjoy designing and developing efficient, user-friendly applications, whether 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaisakhpv033&theme=tokyonight)
 
-![Snake animation](https://vaisakhpv033.github.io/vaisakhpv033/output/github-contribution-grid-snake.svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaisakhpv033&label=Profile%20views&color=0e75b6&style=flat" alt="vaisakhpv" /> </p>
 

@@ -24,6 +24,8 @@ I enjoy designing and developing efficient, user-friendly applications, whether 
 
 ![Snake animation](https://github.com/vaisakhpv033/vaisakhpv033/blob/output/github-contribution-grid-snake.svg)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaisakhpv033&label=Profile%20views&color=0e75b6&style=flat" alt="vaisakhpv" /> </p>
+
 ---
 
 ### 🛠️ Tech Stack & Skills

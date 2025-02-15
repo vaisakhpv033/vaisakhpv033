@@ -16,13 +16,12 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: snake.svg  # Fixed
+          outputs: dist/snake.svg  # ✅ Save output inside "dist" folder
 
       - name: Push snake animation to GitHub
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output  # Ensure this branch exists
-          build_dir: .           # Fixed
+          target_branch: output  # ✅ Ensure branch exists
+          build_dir: dist        # ✅ Push only the "dist" folder
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # Correct placement
-
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # ✅ Ensure GH_PAT is set

@@ -46,7 +46,7 @@ I enjoy designing and developing efficient, user-friendly applications, whether 
 
 ### 🚀 Projects & Open Source Contributions
 
-#### **Feastrove - Multi-Vendor Food Delivery System**
+#### **Feastrove - Multi-Vendor Food Ordering System**
 A full-stack food delivery e-commerce website where users can register as customers or vendors. Built with Django and React.
 
 🔗 [GitHub Repository](https://github.com/vaisakhpv033/FeastRove-Ecommerce)
@@ -62,6 +62,7 @@ A personal portfolio showcasing my projects, skills, and experience.
 
 ### 🎬 **Movie Search App** *(React + TailwindCSS + TMDB API)*
 🔹 Users can **search for movies** and get detailed **information** using the **TMDB API**.
+
 🔹 Built using **React & TailwindCSS** for a modern UI.
 
 🔗 **[GitHub Repo](https://github.com/vaisakhpv033/React-movie-Project)**

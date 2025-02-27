@@ -70,6 +70,14 @@ A personal portfolio showcasing my projects, skills, and experience.
 
 ---
 
+#### **Netflix Landing Page clone** *(React, Tailwindcss)*
+🔹 A pixel-perfect **Netflix website clone**.
+
+🔗 [GitHub Repository](https://github.com/vaisakhpv033/Netflix-react)
+🔗 **[live link](https://vaisakhpv033.github.io/Netflix-react/)**
+
+---
+
 ### 🌐 **Jio Clone** *(HTML & CSS)*
 🔹 A pixel-perfect **Jio website clone** using only **HTML & CSS**.
 

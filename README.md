@@ -36,7 +36,7 @@ I enjoy designing and developing efficient, user-friendly applications, whether 
 ## 🐍 Snake Animation
 <p align="center">
   <!-- snake -->
-  <img src="https://raw.githubusercontent.com/vaisakhpv033/vaisakhpv033/output/dist/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vaisakhpv033/vaisakhpv033/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   <!-- endsnake -->
 </p>
 

@@ -16,7 +16,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg  # ✅ Save output inside "dist" folder
+          outputs: dist/github-contribution-grid-snake.svg  # ✅ Save output inside "dist" folder
 
       - name: Push snake animation to GitHub
         uses: crazy-max/ghaction-github-pages@v3

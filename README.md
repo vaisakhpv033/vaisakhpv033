@@ -2,15 +2,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&vCenter=true&width=800&lines=Full-Stack+Developer;Django+and+React+Enthusiast%2C+Tech+Explorer%2C+Building+APIs%2C+SQL;Python%2C+MongoDB%2C+Javascript%2C+SQL;Building+Scalable+Web+Applications!🚀)
 
-I am a **self-taught full-stack developer** passionate about building scalable web applications and solving real-world problems with technology. My expertise lies in **Python, Django, React, and modern web technologies**, and I thrive on learning and adapting to new challenges.
+Hello! I’m Vaisakh P V, an adaptable and curious full stack developer. I transitioned from Electrical Engineering to software development and found a deep passion for solving problems through code. My current expertise lies in Python, JavaScript, Django, React, Next.js, PostgreSQL, and Tailwind CSS. I'm constantly upskilling, love challenging opportunities to grow, and am committed to getting better every single day. Always learning, always building.
 
-I enjoy designing and developing efficient, user-friendly applications, whether it's an **e-commerce platform, an admin dashboard, or an interactive front-end experience**. My problem-solving mindset, combined with my commitment to writing **clean, maintainable code**, drives me to build high-quality projects.
-
-🔹 Currently, I am exploring **AWS, security, scalability, and system design** to enhance my understanding of high-performance application architecture.  
-🔹 I actively contribute to **open-source projects**, technical discussions, and knowledge sharing.  
-🔹 My goal is to create impactful software solutions and continuously grow as a developer.  
-
-**“The best way to predict the future is to create it.” — Alan Kay**  
+**“Learning gives creativity, creativity leads to thinking, thinking provides knowledge, and knowledge makes you great.” — APJ Abdul Kalam**  
 
 
 ---
